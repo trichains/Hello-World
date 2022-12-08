@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula.
 
-Essa linha eu adicionei diretamente no site.
+- [x] Essa linha eu adicionei diretamente no site.
